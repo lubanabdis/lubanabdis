@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lubanabdis
 - 👀 I’m interested in Deep Learning
 - 🌱 I'm studying at Unmuh Jember
-- 💞️ I’m looking to collaborate on me
+- 💞️ I want to collaborate for Indonesia
 - 📫 How to reach me SI-KON-TOL PAN-JANG
 
 <!---
