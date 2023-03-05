@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Social Media Manager at Tegalsari Banyuwangi Police Station**
 
-- 🌱 I’m currently learning **Research (Deep Learning, Image Processing and Etc)**
+- 🌱 I’m currently learning **Research (Deep Learning, Image Processing, Etc)**
 
 - 📝 I regularly write articles on [http://ejurnal.unmuhjember.ac.id/index.php/JUSTINDO/article/view/168](http://ejurnal.unmuhjember.ac.id/index.php/JUSTINDO/article/view/168)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **teamlubanabdi@gmail.com**
 
-- 📄 Know about my experiences [I was once an IT Support at PT. Wiki Nirwana Wangsa and Social Media Manager at Tegalsari Banyuwangi Police Station.](I was once an IT Support at PT. Wiki Nirwana Wangsa and Social Media Manager at Tegalsari Banyuwangi Police Station.)
+- 📄 Know about my experiences [I was once an IT Support at PT. Wiki Nirwana Wangsa and Social Media Manager at Tegalsari Banyuwangi Police Station.]
 
 - ⚡ Fun fact **I think I'm humorous, and I have wild thoughts.**
 
@@ -24,7 +24,7 @@
 <a href="https://twitter.com/lasusanto15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lasusanto15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luban-abdi-susanto-9b51331b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luban-abdi-susanto-9b51331b1" height="30" width="40" /></a>
 <a href="https://kaggle.com/lubanasteam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lubanasteam" height="30" width="40" /></a>
-<a href="https://fb.com/luban abdi susanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luban abdi susanto" height="30" width="40" /></a>
+<a href="https://fb.com/lubanabdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luban abdi susanto" height="30" width="40" /></a>
 <a href="https://instagram.com/lubanabdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lubanabdi" height="30" width="40" /></a>
 <a href="https://discord.gg/MonsterUceng#6424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MonsterUceng#6424" height="30" width="40" /></a>
 </p>
