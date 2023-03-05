@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lubanabdis
+- 👋 Hi, My Full Name is Luban Abdi Susanto
 - 👀 I’m interested in Deep Learning
 - 🌱 I'm a Bachelor of Computer Science from the Muhammadiyah University of Jember
 - 💞️ I want to be the future leader of Indonesia
