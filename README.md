@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Social Media Manager at Tegalsari Banyuwangi Police Station<br><br>🌱 I’m currently learning Research (Deep Learning, Image Processing, Etc)<br><br>📝 I regularly write articles on http://ejurnal.unmuhjember.ac.id/index.php/JUSTINDO/article/view/168<br><br>📫 How to reach me teamlubanabdi@gmail.com<br><br>📄 Know about my experiences I was once an IT Support at PT. Wiki Nirwana Wangsa and Social Media Manager at Tegalsari Banyuwangi Police Station<br><br>⚡ Fun fact I think I'm humorous, and I have wild thoughts.
+🔭 I’m currently working on Social Media Manager, Content Creator and WordPress Development at Tegalsari Banyuwangi Police Station<br>🌱 I’m currently learning Research (Deep Learning, Data Mining, Machine Learning, Etc)<br>📝 I regularly write articles on [http://ejurnal.unmuhjember.ac.id/index.php/JUSTINDO/article/view/168](url)<br>📫 How to reach me [teamlubanabdi@gmail.com]<br>⚡ Fun fact I think I'm humorous, and I have wild thoughts.<br>🔥 The principle of life’s **SI-KON-TOL-PAN-JANG**.
 
 
 ## 🌐 Socials:
