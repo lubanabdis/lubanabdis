@@ -1,9 +1,8 @@
 # 💫 About Me:
-🔭 I’m a Junior Data Analyst, IT Support, IT Governance, and Freelancer <br>🌱 I’m currently learning Research (Deep Learning) <br>📝 I regularly write articles on [SINTA-4](http://ejurnal.unmuhjember.ac.id/index.php/JUSTINDO/article/view/168) & [SINTA-5](https://journal.umg.ac.id/index.php/indexia/article/view/5508) <br>📫 How to reach me [EMAIL](mailto:teamlubanabdi@gmail.com)<br>⚡ Fun fact I think I'm humorous, and I have wild thoughts.<br>🔥 The principle of life’s **K-O-B-I-T**.
+🔭 I’m a Jr. Data Analyst & Scientist, IT Support, and IT Governance<br>🌱 I’m currently learning Research (Deep Learning & Machine Learning) <br>📝 I regularly write articles on [SINTA-4](http://ejurnal.unmuhjember.ac.id/index.php/JUSTINDO/article/view/168), [SINTA-5](https://journal.eng.unila.ac.id/index.php/jitet/article/view/4152), &  [SINTA-6](https://journal.umg.ac.id/index.php/indexia/article/view/5508) <br>📫 How to reach me [EMAIL](mailto:teamlubanabdi@gmail.com)<br>⚡ Fun fact I think I'm humorous, and I have wild thoughts.<br>🔥 The principle of life’s **K-O-B-I-T**.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MonsterUceng#6424) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lubanabdis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luban-abdi-susanto-9b51331b1) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lasusanto15) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MonsterUceng#6424) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luban-abdi-susanto-9b51331b1) 
 [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/lubanasteam) 
 
 # 💻 Tech Stack:
